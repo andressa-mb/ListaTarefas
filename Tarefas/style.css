@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #b9b9f8;
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.titulo {
+  text-align: center;
+}
+
+.formulario_caixa {
+  display: flex;
+  width: 450px;
+  
+  border-radius: 20px;
+  margin: auto;
+  padding-top: 20px;
+  background-color: #aae9d9;
+}
+
+form{
+  text-align: center;
+  width: 450px;
+  
+}
+
+label {
+  font-size: 20px;
+}
+
+#tarefas {
+  display: block;
+  margin: 10px auto;
+  width: 415px;
+  height: 55px;;
+}
+
+button {
+  text-align: center;
+}
+
+#resposta {
+  text-align: left;
+  margin-right: 16px;
+}
